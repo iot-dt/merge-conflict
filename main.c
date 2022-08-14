@@ -14,5 +14,9 @@ Feature1 Security()
 {
  //Sample Code
 }
+Master Security()
+{
+ //Sample Code
+}
 
 }
