@@ -9,7 +9,13 @@ Initial Security()
 {
  //Sample Code
 }
+
 Initial Feature2()
+{
+//Sample Code
+}
+
+Master Security()
 {
  //Sample Code
 }
